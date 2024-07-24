@@ -1,4 +1,4 @@
-央视V6,#genre#
+央视V6,#类型#
 CCTV1综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8#http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226016/index.m3u8
 CCTV2财经,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8#http://114.254.82.142:88/tsfile/live/0002_1.m3u8
 CCTV3综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
@@ -10,29 +10,31 @@ CCTV7国防军事，http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/322122573
 CCTV8电视剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
 CCTV9记录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
 CCTV10科教,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
-CCTV-11戏曲,http://114.254.93.41:88/tsfile/live/0011_1.m3u8
+CCTV-11戏曲,http://114.254.93.41:88/tsfile/live/0011_1.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8
 CCTV12社会与法,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
 CCTV13新闻,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8#http://114.254.80.92:88/tsfile/live/0013_1.m3u8
 CCTV14少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
-CCTV-15音乐,http://114.254.93.41:88/tsfile/live/0015_1.m3u8
+CCTV-15音乐,http://114.254.93.41:88/tsfile/live/0015_1.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8
 CCTV16休息，http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 CCTV17农业农村，http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
+新闻基金会，http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226330/index.m3u8
+新闻综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226434/index.m3u8
 晴彩竞技,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
 晴彩篮球,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
 农业科教,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226242/index.m3u8
 
 卫视台,#genre#
-东方卫视,http://114.254.80.92:88/tsfile/live/0107_1.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8#http://ottrrs .hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8#http://39.135.171.17:80/wh7f454c46tw3778715955_1300750006/iptv.cdn.ha.chinamobile.com/PLTV/88888888/22 4/3221226681/ 1 .m3u8
+东方卫视,http://114.254.80.92:88/tsfile/live/0107_1.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8#http://39.135.171.17:80/wh7f454c46tw3778715955_1300750006/iptv.cdn.ha.chinamobile.com/PLTV/88888888/22 4/3221226681/ 1 .m3u8
 黑龙江卫视,http://114.254.93.41:88/tsfile/live/0143_1.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8#http://39.135 .171.30:80/wh7f454c46tw4195725894_2034193758/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226533/1.m3u8
 山东卫视,http://114.254.93.41:88/tsfile/live/0131_1.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8#http://39.134 .220.32:80/wh7f454c46tw4269249435_-963721867/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226564/1.m3u8
 湖北卫视,http://114.254.93.41:88/tsfile/live/0132_1.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225627/index.m3u8#http://ottrrs .hl.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u8
 湖南卫视,http://114.254.82.142:88/tsfile/live/0128_1.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8#http://ottrrs .hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8#http://111.7.150.27:80/wh7f454c46tw502223531_1309305905/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/ 3221226659/1 .m3u8
-江苏卫视，http://114.254.82.142:88/tsfile/live/0127_1.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225613/index.m3u8#http://ottrrs .hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8#http://39.134.220.60:80/wh7f454c46tw3941350243_-99964222/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224 / 3221226722 /1.m3u8
-浙江卫视,http://ali-ml.cztv.com/channels/lantian/channel001/1080p.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8#http ://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8#http://111.7.150.103:80/wh7f454c46tw3651206687_522620853/iptv.cdn.ha.chinamobile.com/PLTV/88888888 /224 /3221226682/1.m3u8
+江苏卫视，http://114.254.82.142:88/tsfile/live/0127_1.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225613/index.m3u8#http://ottrrs .hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8#http://39.134.220.60:80/wh7f454c46tw3941350243_-99964222/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224 /3221226722 /1.m3u8
+浙江卫视,http://ali-ml.cztv.com/channels/lantian/channel001/1080p.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8#http ://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8#http://111.7.150.103:80/wh7f454c46tw3651206687_522620853/iptv.cdn.ha.chinamobile.com/PLTV/88888888 / 224 /3221226682/1.m3u8
 兵团卫视,https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 海南卫视,http://123.189.36.4:9901/tsfile/live/1064_1.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
 广东卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8#http://111.7.150.31:80/wh7f454c46tw4118906896_-1785381756/iptv.cdn.ha.chinamobile.com /PLTV/88888888/224/3221226525/1.m3u8
-北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226251/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8 #http://ottrrs.hl.china mobile.com/PLTV/88888888/224/3221226450/index.m3u8#http://39.134.220.52:80/wh7f454c46tw4028908434_-1374761009/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/32 21226519/1。 m3u8
+北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226251/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8 #http://ottrrs.hl.china mobile.com/PLTV/88888888/224/3221226450/index.m3u8#http://39.134.220.52:80/wh7f454c46tw4028908434_-1374761009/iptv.cdn.ha.chinamobile.com/ PLTV/88888888/224/32 21226519/1。 m3u8
 辽宁卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226254/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225619/index.m3u8 #http://39.134.220.58:80/wh7f454c46tw135469444_-276309823/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226586/1.m3u8
 重庆卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
 东南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
@@ -48,9 +50,9 @@ CCTV17农业农村，http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/32212257
 青海卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/index.m3u8
 山东教育电视台,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225655/index.m3u8
 山西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225624/index.m3u8
-陕西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225625/index.m3u8#http://39.135.171.35:80/wh7f454c46tw226823807_2087005636/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226591/1.m3u8
+陕西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225625/index.m3u8#http://39.135.171.35:80/wh7f454c46tw226823807_2087005636/iptv.cdn.ha.chinamobile.com/PLTV /88888888/224/3221226591/1.m3u8
 深圳卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225739/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8 #http://39.134.220.18:80/wh7f454c46tw574851733_217939403/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226700/1.m3u8
-四川卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8#http://39.134.220.21:80/wh7f454c46tw633445489_1050231719/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226573/1.m3u8
+四川卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8#http://39.134.220.21:80/wh7f454c46tw633445489_1050231719/iptv.cdn.ha.chinamobile.com/PLTV /88888888/224/3221226573/1.m3u8
 天津卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225740/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8
 新疆卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8
 西藏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225638/index.m3u8
