@@ -1,0 +1,233 @@
+央视V6,#genre#
+CCTV1综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8#http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226016/index.m3u8
+CCTV2财经,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8#http://114.254.82.142:88/tsfile/live/0002_1.m3u8
+CCTV3综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
+CCTV4中文国际,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8#http://114.254.93.41:88/tsfile/live/0004_1.m3u8
+CCTV5体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
+CCTV6电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8#http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
+CCTV5+体育赛事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
+CCTV7国防军事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
+CCTV8电视剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
+CCTV9记录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
+CCTV10科教,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
+CCTV-11戏曲,http://114.254.93.41:88/tsfile/live/0011_1.m3u8
+CCTV12社会与法,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
+CCTV13新闻,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8#http://114.254.80.92:88/tsfile/live/0013_1.m3u8
+CCTV14少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
+CCTV-15音乐,http://114.254.93.41:88/tsfile/live/0015_1.m3u8
+CCTV16奥林匹克,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
+CCTV17农业农村,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
+晴彩竞技,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
+晴彩篮球,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
+农业科教,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226242/index.m3u8
+
+卫视台,#genre#
+东方卫视,http://114.254.80.92:88/tsfile/live/0107_1.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8#http://39.135.171.17:80/wh7f454c46tw3778715955_1300750006/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226681/1.m3u8
+黑龙江卫视,http://114.254.93.41:88/tsfile/live/0143_1.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8#http://39.135.171.30:80/wh7f454c46tw4195725894_2034193758/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226533/1.m3u8
+山东卫视,http://114.254.93.41:88/tsfile/live/0131_1.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8#http://39.134.220.32:80/wh7f454c46tw4269249435_-963721867/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226564/1.m3u8
+湖北卫视,http://114.254.93.41:88/tsfile/live/0132_1.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225627/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u8
+湖南卫视,http://114.254.82.142:88/tsfile/live/0128_1.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8#http://111.7.150.27:80/wh7f454c46tw502223531_1309305905/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226659/1.m3u8
+江苏卫视,http://114.254.82.142:88/tsfile/live/0127_1.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225613/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8#http://39.134.220.60:80/wh7f454c46tw3941350243_-99964222/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226722/1.m3u8
+浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8#http://111.7.150.103:80/wh7f454c46tw3651206687_522620853/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226682/1.m3u8
+兵团卫视,https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
+海南卫视,http://123.189.36.4:9901/tsfile/live/1064_1.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
+广东卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8#http://111.7.150.31:80/wh7f454c46tw4118906896_-1785381756/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226525/1.m3u8
+北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226251/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8#http://39.134.220.52:80/wh7f454c46tw4028908434_-1374761009/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226519/1.m3u8
+辽宁卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226254/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225619/index.m3u8#http://39.134.220.58:80/wh7f454c46tw135469444_-276309823/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226586/1.m3u8
+重庆卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
+东南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
+甘肃卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8
+广西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226380/index.m3u8
+贵州卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8#http://39.134.220.51:80/wh7f454c46tw1771771506_787677920/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226632/1.m3u8
+河北卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8#http://39.134.220.21:80/wh7f454c46tw363963715_-1868847328/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226611/1.m3u8
+河南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
+江西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8#http://39.134.220.13:80/wh7f454c46tw441546274_-1564539150/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226594/1.m3u8
+吉林卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
+内蒙古卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225634/index.m3u8
+宁夏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225632/index.m3u8
+青海卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/index.m3u8
+山东教育电视台,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225655/index.m3u8
+山西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225624/index.m3u8
+陕西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225625/index.m3u8#http://39.135.171.35:80/wh7f454c46tw226823807_2087005636/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226591/1.m3u8
+深圳卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225739/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8#http://39.134.220.18:80/wh7f454c46tw574851733_217939403/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226700/1.m3u8
+四川卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8#http://39.134.220.21:80/wh7f454c46tw633445489_1050231719/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226573/1.m3u8
+天津卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225740/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8
+新疆卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8
+西藏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225638/index.m3u8
+延边卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8
+云南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8
+安徽卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8#http://39.134.220.5:80/wh7f454c46tw52186710_-501728739/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226578/1.m3u8
+
+河南,#genre#
+河南卫视4K,http://39.134.220.23:80/wh7f454c46tw2315330485_1093006359/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226526/1.m3u8
+河南卫视,http://39.135.171.20:80/wh7f454c46tw1916333624_1639744579/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226639/1.m3u8#http://39.134.220.81:80/wh7f454c46tw1062656185_-525396893/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226639/1.m3u8
+都市频道,http://39.135.171.32:80/wh7f454c46tw1441549668_-1111315699/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226649/1.m3u8
+河南电视剧频道,http://111.7.150.119:80/wh7f454c46tw3210314218_1937697704/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226521/1.m3u8
+河南国际,http://39.135.171.27:80/wh7f454c46tw2359358935_-2052753850/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226588/1.m3u8
+乡村频道,http://111.7.150.21:80/wh7f454c46tw2479681960_-985648822/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226576/1.m3u8
+公共频道,http://39.135.171.28:80/wh7f454c46tw1882086775_-1399151626/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226566/1.m3u8
+宜阳综合,http://live.dxhmt.cn:9081/tv/10327-1.m3u8#http://tvpull.dxhmt.cn:9081/tv/10327-1.m3u8
+
+NewTV,#genre#
+NewTV东北热剧 4M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
+NewTV中国功夫 2.5M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
+NewTV军事评论 2.5M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
+NewTV军旅剧场 2.5M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
+NewTV农业致富 4M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8
+NewTV动作电影 2.5M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
+NewTV家庭剧场 2.5M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
+NewTV怡伴健康 2.5M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8
+NewTV惊悚悬疑 2.5M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
+NewTV明星大片 2.5M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
+NewTV欢乐剧场 4M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
+NewTV武搏世界 2.5M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
+NewTV海外剧场 2.5M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
+NewTV潮妈辣婆 4M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
+NewTV爱情喜剧 2.5M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
+NewTV精品大剧 2.5M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
+NewTV精品纪录 2.5M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
+NewTV精品体育 4M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
+NewTV超级体育 4M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
+NewTV超级电影 4M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
+NewTV超级电视剧 4M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
+NewTV超级综艺 4M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
+NewTV精品萌宠 4M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8
+
+体育,#genre#
+魅力足球,http://111.7.150.107:80/wh7f454c46tw2410900298_-287524708/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226558/1.m3u8
+咪咕全民热练 8M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8
+咪咕视频 体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
+CCTV-5 8M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
+咪咕视频 8M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
+哒啵赛事 4M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8
+
+教育,#genre#
+CETV1中国教育电视台一套,http://hwylivehd.centv.cn/cetv1/ypd.m3u8
+CETV2中国教育电视台二套,http://hwylivehd.centv.cn/cetv2/2020tsytk.m3u8
+CETV3中国教育电视台三套,http://hwylivehd.centv.cn/cetv3/bjdm.m3u8
+CETV4空中课堂频道,http://hwylivehd.centv.cn/cetv4/zjpd.m3u8
+
+老电影,#genre#
+少林寺,http://uptt.gcwduoduo.com/webup/220716/cadcf1093a8873377dabf576d6318e45.mp4
+少林小子,http://uptt.gcwduoduo.com/webup/220716/4ec6d242079fa332891d09f3b8db3071.mp4
+南北少林,http://uptt.gcwduoduo.com/v/210309/7007f4d54f2ebc09af78f28a09d04acd.mp4
+少林俗家弟子,http://uptt.gcwduoduo.com/webup/220716/90afe2526447d486663868d300cf8b3f.mp4
+上甘岭-1956年,http://uptt.gcwduoduo.com/webup/231215/8e583169c607c292974f01fb2cbc326a.mp4
+五朵金花-高清修复-1959年,http://uptt.gcwduoduo.com/v/230726/34379cfdc58e35f69fdfee1ec4bf4ba0.mp4
+地雷战,http://uptt.gcwduoduo.com/webup/220922/a23e6f15b5fad43540c83260dc58006a.mp4
+小兵张嘎,http://uptt.gcwduoduo.com/v/210223/d771cbe46f9812249ed14b6153f37f8c.mp4
+闪闪的红星,http://uptt.gcwduoduo.com/webup/231227/727d0a3ada1a0c4da8509bb5b2afcee8.mp4
+渡江侦察记,http://uptt.gcwduoduo.com/v/210223/18dc79682b91674fd8455159f2e51d29.mp4
+南征北战,http://uptt.gcwduoduo.com/v/210223/5e8cf18c460614cf2f32f87c6658f963.mp4
+巍巍昆仑,http://uptt.gcwduoduo.com/v/210309/ea8d1b12289bbba99427ae43f40f1dc4.mp4
+鹰爪铁布衫,http://uptt.gcwduoduo.com/webup/220710/d91f562e712e4aeb72b9c262c49c5387.mp4
+咱们的牛百岁,http://uptt.gcwduoduo.com/v/210309/4bbb7187077ba404dc4383e377aa6c56.mp4
+桥-南斯拉夫1969年,http://uptt.gcwduoduo.com/webup/230925/ccab78d922fd87a6cd40c071f9c82c27.mp4
+这里的黎明静悄悄-苏联1972年,http://uptt.gcwduoduo.com/webup/240111/78c29222c80361d0febffa27f19fcd42.mp4
+夺印-1963年,http://uptt.gcwduoduo.com/v/230831/aba64b473910e32fd9f888cedb6f388e.mp4
+平原游击队-1955,http://uptt.gcwduoduo.com/webup/231117/ea193aaca55818ac34891c8102f3e860.mp4
+野火春风斗古城-1963年,http://uptt.gcwduoduo.com/webup/231205/2d1d972555aaa90ad75109bdca815ea2.mp4
+三毛流浪记-1949年,http://uptt.gcwduoduo.com/webup/231206/c3e5037118a987d446193cc96f388ff7.mp4
+英雄儿女-1964年,http://uptt.gcwduoduo.com/webup/231215/ac1336d8fd1e57160f092228559d00f5.mp4
+六盘山-1978年,http://uptt.gcwduoduo.com/webup/231227/0fb8e44848747e5de508aae208ae14e3.mp4
+永不消逝的电波-1958年,http://uptt.gcwduoduo.com/webup/231227/f2cffe2ef4799b029ba85e0857e08d9a.mp4
+狼牙山五壮士-1958年,http://uptt.gcwduoduo.com/webup/231227/c51ad400efe64b52e13f622155437041.mp4
+艳阳天-1973年,http://uptt.gcwduoduo.com/webup/240106/f53c4cc527abbf694582dfb45d74fbe5.mp4
+大刀记,http://uptt.gcwduoduo.com/v/210223/ce0069351d6c293ce422b8d04a48289f.mp4
+自古英雄出少年,http://uptt.gcwduoduo.com/webup/220716/6d19e84ce4059348380a37a39c8b6541.mp4
+骆驼祥子,http://uptt.gcwduoduo.com/v/210309/cbfde6d86260b425d206463dc3a2a074.mp4
+飞来的女婿,http://uptt.gcwduoduo.com/v/210309/ac18b08702a45e385e3a671d1cde177c.mp4
+大渡河,http://uptt.gcwduoduo.com/webup/230819/1dcd592bff85bb1c9cc517993108276c.mp4
+林海雪原-1960年,http://uptt.gcwduoduo.com/webup/230731/89ab26a7b599cb82d0658793bbf4c0e0.mp4
+铁道游击队,http://uptt.gcwduoduo.com/v/210223/10f5e91328a9412c6d22252fd0fa1e48.mp4
+地道战,http://uptt.gcwduoduo.com/v/210223/d09159a31f65daa10099ab67949a2198.mp4
+三进山城-高清修复1962年,http://uptt.gcwduoduo.com/webup/230619/2ab5b4d7fb1837bbde31fc67bd7158e6.mp4
+白毛女,http://uptt.gcwduoduo.com/webup/220926/4c36b15fbfd5e21e44577a25c2bee07e.mp4
+红色娘子军-1972年,http://uptt.gcwduoduo.com/webup/231229/fb714b551c0e2806b63808934bced71a.mp4
+黄桥决战,http://uptt.gcwduoduo.com/webup/230819/bde8e91a4b38367ef531fd8702521634.mp4
+我们是八路军,http://uptt.gcwduoduo.com/webup/230721/112525d2f446ac9fa8173dbd74457c53.mp4
+朝鲜战争真实影像记录,http://uptt.gcwduoduo.com/webup/230308/ee6e3fb3a2002fd0f369de4a86399077.mp4
+白莲花,http://uptt.gcwduoduo.com/webup/2201002/b520601a8acf07204ad020c23539ae39.mp4
+古刹钟声-高清修复-1958年,http://uptt.gcwduoduo.com/webup/230902/f616a4c128ebde5e8c441c72ee26a522.mp4
+阿诗玛-1964年,http://uptt.gcwduoduo.com/webup/231116/6e82ba278359df213190aa7091f8f610.mp4
+纪录片国庆颂1974年,http://uptt.gcwduoduo.com/webup/231012/e3d068b5597887b644824ec8effc0a41.mp4
+
+戏曲,#genre#
+豫剧-倒霉大叔的婚事,http://uptt.gcwduoduo.com/v/200901/182b44da66a166d672ab840c5e251f9d.mp4
+豫剧-倒霉大叔的婚事新版,http://uptt.gcwduoduo.com/webup/240109/1ee277fdf43e88cd3dfed7e9aaeb93a0.mp4
+豫剧-卷席筒续集,http://uptt.gcwduoduo.com/v/200623/8485616d11060b039d2a79874fd69c6c.mp4
+豫剧-朝阳沟,http://uptt.gcwduoduo.com/v/230706/d120a1b58d32d0cdae69069d72c6aa8d.mp4
+豫剧-朝阳沟-省三团,http://uptt.gcwduoduo.com/v/190116/cf91667f48e329e2d6c046fe263a7772.mp4
+豫剧-花木兰-常香玉,http://uptt.gcwduoduo.com/v/220516/cca4d215b8c4dc747bdd161996644592.mp4
+豫剧-穆桂英挂帅-马金凤高清修复1958年,http://uptt.gcwduoduo.com/v/230816/c6a9f1664e597d208e6351aa0828a7b1.mp4
+豫剧-穆桂英挂帅-马金凤1958年,http://uptt.gcwduoduo.com/v/200818/0a8244cef52e092c41e55b26f1d3ad3c.mp4
+豫剧-五世请缨,http://uptt.gcwduoduo.com/webup/220728/90bc290beb934088350617f08cd7d663.mp4
+豫剧-桃园喜,http://uptt.gcwduoduo.com/v/201030/45f02d572d8dcc7e215701c0e268d25c.mp4
+豫剧-人欢马叫,http://uptt.gcwduoduo.com/webup/220728/a2ccaca043d97deae2ec183bec8a43d3.mp4
+豫剧-时来运转-洛阳春晓豫剧团,http://uptt.gcwduoduo.com/webup/240109/a9d73c9bcce5e9d71655f6aaa33b7816.mp4
+豫剧-包青天,http://uptt.gcwduoduo.com/webup/230307/2b1c916bda2605d77b6746f9c37fc52a.mp4
+豫剧-黄河边,http://uptt.gcwduoduo.com/webup/230418/8fad94693440f7f4750791b0c4047ee5.mp4
+豫剧-黄河滩上的女人,http://uptt.gcwduoduo.com/webup/230121/26074469a1fc770b20f12e350c6012cb.mp4
+豫剧-洛阳桥,http://uptt.gcwduoduo.com/webup/2201010/4576247a452d0b4109df07f3b9b10b36.mp4
+曲剧-五女拜寿,http://uptt.gcwduoduo.com/v/220509/d4809d70978dbad3d89eea4ee34564ac.mp4
+曲剧-李豁子离婚,http://uptt.gcwduoduo.com/v/200914/7213d1f14890895236168f31147dac0f.mp4
+曲剧-李豁子再婚,http://uptt.gcwduoduo.com/v/190304/e6a4dded42eec0c0ccee4e86d1bdd83b.mp4
+刘三姐,http://uptt.gcwduoduo.com/webup/220915/ed6f44a65bc48e48a1419a322fe253b4.mp4
+
+梨园春,#genre#
+梨园春926期,http://uptt.gcwduoduo.com/v/190624/094ab85367c868330de4d32190d84625.mp4
+梨园春939期,http://uptt.gcwduoduo.com/v/190627/32d79330ec85ba920cf3fd9eda26ecf5.mp4
+梨园春958期,http://uptt.gcwduoduo.com/v/190711/611e49a238871e35e54cafdcdf5e7621.mp4
+梨园春967期,http://uptt.gcwduoduo.com/v/190624/4258e342dfe7037f3e3cc090af2f23e8.mp4
+梨园春977期,http://uptt.gcwduoduo.com/v/190627/87202d178766324c0bf1088a72cdecef.mp4
+梨园春978期,http://uptt.gcwduoduo.com/v/190711/e58e8ce26882439be4acbd0192054b9d.mp4
+梨园春979期,http://uptt.gcwduoduo.com/v/190711/7d515f0a522b9cec057b3f96d6f72c49.mp4
+梨园春981期,http://uptt.gcwduoduo.com/v/190627/261c442532c401d214b34e44e449dbb5.mp4
+梨园春984期,http://uptt.gcwduoduo.com/v/190711/747a7d6c99728818f6e9c1a97f3cda24.mp4
+梨园春985期,http://uptt.gcwduoduo.com/v/190711/15e1f5bd917685244627646bf73353df.mp4
+梨园春986期,http://uptt.gcwduoduo.com/v/190712/ca72a4c1303a6a8454f588a76d481d91.mp4
+梨园春987期,http://uptt.gcwduoduo.com/v/190627/4b57a51f88b890bf4091a1ac6a6baf85.mp4
+梨园春989期,http://uptt.gcwduoduo.com/v/190614/0e453d0df337afa5c2c84aba775e0d64.mp4
+梨园春2017年总决赛,http://uptt.gcwduoduo.com/v/190627/4cc248fec1ec1fa0c26eed39cab67fe7.mp4
+梨园春-走进俄罗斯,http://uptt.gcwduoduo.com/v/190712/b1920dc94e7a984fa56cdaa6c13172fa.mp4
+梨园春一起唱戏吧2,http://uptt.gcwduoduo.com/v/190618/d033058accae14ce40c4a0ee18ec88d5.mp4
+
+历年春晚,#genre#
+春晚1983,http://txmov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5NTRfNDAzMDAxOTlfNjYyNzMyMzg3MTRfMF8z_b_B192356dadbc90d207ba16964d4c2914c.mp4#https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5MTRfNDAzMDAxOTlfNjYyNzMxNjcwMjBfMF8z_b_Beb3bda599f76c60c463c433ca7460153.mp4
+春晚1985,http://txmov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDFfNDAzMDAxOTlfNjYyNzMyNTAwMzJfMF8z_b_Be73c5abcbc0eeb2ec9fce6842e1362a4.mp4#https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDFfNDAzMDAxOTlfNjYyNzMyNTAwMzJfMF8z_b_Be73c5abcbc0eeb2ec9fce6842e1362a4.mp4
+春晚1986,https://txmov2.a.kwimgs.com/bs3/video-hls/5231493982164619599_hlshd15.m3u8#https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDRfNDAzMDAxOTlfNjYyNzMyNTU0OTRfMF8z_b_B24f7d19f1132fa5d7f502f8377ad5567.mp4
+春晚1987,https://txmov2.a.kwimgs.com/bs3/video-hls/5195746663405928031_hlsb.m3u8#https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDhfNDAzMDAxOTlfNjYyNzMyNjMyMDNfMF8z_b_B570493ed8f7200d4013a66b2d21b2de9.mp4
+春晚1988,https://txmov2.a.kwimgs.com/bs3/video-hls/5216575810935394655_hlsb.m3u8#https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMTJfNDAzMDAxOTlfNjYyNzMyNjkxNjBfMF8z_b_B8c835b83a92d25bde81ba22c5cd9521e.mp4
+春晚1989,http://txmov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMTVfNDAzMDAxOTlfNjYyNzMyNzQ2OTlfMF8z_b_Be477b27b9ce655d2372df56a5a3d96ef.mp4#https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMTVfNDAzMDAxOTlfNjYyNzMyNzQ2OTlfMF8z_b_Be477b27b9ce655d2372df56a5a3d96ef.mp4
+春晚1991,https://txmov2.a.kwimgs.com/bs3/video-hls/5210664837540712798_hlshd15.m3u8#https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjI2MTVfNDAzMDAxOTlfNjYyNzYwNjUxNjVfMF8z_b_B8feb7b85888678d71bf37a259c6850f6.mp4
+春晚1992,https://txmov2.a.kwimgs.com/bs3/video-hls/5256826755663896297_hlshd15.m3u8
+春晚1993,https://txmov2.a.kwimgs.com/bs3/video-hls/5217420261875933947_hlshd15.m3u8#https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYwODJfMF8z_b_B647d10e431b4cc5e48e6c77347d69021.mp4
+春晚1994,https://txmov2.a.kwimgs.com/bs3/video-hls/5197154061406974711_hlshd15.m3u8#https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYxMjNfMF8z_b_B3dde97f36273f04403d4dc5eec611a35.mp4
+春晚1995,https://txmov2.a.kwimgs.com/bs3/video-hls/5255137907893179578_hlshd15.m3u8#https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQwNzVfMF8z_b_B811c0dec6b9a3d3074a18522c185010a.mp4
+春晚1996,https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYxNTJfMF8z_b_Bd841eae10ab1c9955ef55fbedfae6c45.mp4
+春晚1997,https://txmov2.a.kwimgs.com/bs3/video-hls/5230649583590411879_hlshd15.m3u8
+春晚1998,https://txmov2.a.kwimgs.com/bs3/video-hls/5225864507896315430_hlshd15.m3u8
+春晚1999,https://txmov2.a.kwimgs.com/bs3/video-hls/5258234133675308186_hlshd15.m3u8#https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQxNTRfMF8z_b_B0b5e52bc003285ef66ec0cbb2be08556.mp4
+春晚2000,https://txmov2.a.kwimgs.com/bs3/video-hls/5216294359327079321_hlshd15.m3u8#https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxMTNfMF8z_b_Bdddf4e7ef0ff6cfd477857bb40e78419.mp4
+春晚2001,https://txmov2.a.kwimgs.com/bs3/video-hls/5228960735897942616_hlshd15.m3u8#https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyMDFfMF8z_b_B70592cb7c4054e9cabb675e849bbf4bd.mp4
+春晚2002,https://txmov2.a.kwimgs.com/bs3/video-hls/5255700858599864364_hlshd15.m3u8#https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxNDdfMF8z_b_Ba6271d10b7e6cfae83759033a091f257.mp4
+春晚2003,https://alimov2.a.kwimgs.com/upic/2023/01/14/23/BMjAyMzAxMTQyMzQxNDdfNDAzMDAxOTlfOTM2MTU0MTk1NDFfMF8z_b_B182749d2cd2ea9323639254af385f24b.mp4
+春晚2004,https://txmov2.a.kwimgs.com/bs3/video-hls/5223894184413450769_hlshd15.m3u8#https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxOTVfMF8z_b_B86c4430b82ff5a7f4e8132f6ee558536.mp4
+春晚2005,https://txmov2.a.kwimgs.com/bs3/video-hls/5254012008863954469_hlshd15.m3u8#https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyMzhfMF8z_b_B35ad7cc86aec8fc9e5ddfb31fc7bed63.mp4
+春晚2006,https://txmov2.a.kwimgs.com/bs3/video-hls/5194339310474320155_hlshd15.m3u8#https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyNzlfMF8z_b_Bbc3703fc331dc994c50859c19aad28ff.mp4
+春晚2007,https://txmov2.a.kwimgs.com/bs3/video-hls/5219953534755647343_hlshd15.m3u8#https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQzMjNfMF8z_b_B00b069c7899976459ceeaa99353dfefe.mp4
+春晚2008,https://txmov2.a.kwimgs.com/bs3/video-hls/5194902262344826321_hlshd15.m3u8#https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQzNTNfMF8z_b_Bd7346962e61bd7b84e11a1fa6e4616f9.mp4
+春晚2009,https://txmov2.a.kwimgs.com/bs3/video-hls/5210946337266019890_hlshd15.m3u8#https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQzOTBfMF8z_b_B29a36a85e0277f6c2a1f033ef7c10708.mp4
+春晚2010,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ0MjlfMF8z_b_B8818807a00eed329a69fb494f405bd43.mp4
+春晚2011,https://alimov2.a.kwimgs.com/upic/2023/01/16/11/BMjAyMzAxMTYxMTA3MjFfNDAzMDAxOTlfOTM3MjcyMjA3ODhfMF8z_b_B8214200efc869dc6fcf99dad619fa4c1.mp4
+春晚2013,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ1NjNfMF8z_b_B4fea55408dca4471a68a963ae096be59.mp4
+春晚2014,https://txmov2.a.kwimgs.com/bs3/video-hls/5245286283437869627_hlshd15.m3u8#https://alimov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTNfNDAzMDAxOTlfOTI4OTY2ODAzNjlfMF8z_b_Bdee65c77f9e7b2120a185c919dad81d2.mp4
+春晚2015,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ2MTZfMF8z_b_B4851f43f5a2bc2871a9b0ec87294a6e7.mp4
+春晚2017,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ2NDhfMF8z_b_B6527b0c2ce3dda1d9b3f34edd4fdb9aa.mp4
+春晚2018,https://alimov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTRfNDAzMDAxOTlfOTI4OTY2ODE2MTBfMF8z_b_B11a778e34390a21de42d407e94f45b91.mp4
+春晚2019,https://txmov2.a.kwimgs.com/bs3/video-hls/5222205336887088723_hlshd15.m3u8
+春晚2020,https://txmov2.a.kwimgs.com/bs3/video-hls/5248101009010430183_hlshd15.m3u8#http://txmov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzA5NDdfNDAzMDAxOTlfNjYxNzQ2MDAyMTFfMF8z_b_B5d51d9564c5670dc66faeba20aa7af3f.mp4#https://alimov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzA5NDdfNDAzMDAxOTlfNjYxNzQ2MDAyMTFfMF8z_b_B5d51d9564c5670dc66faeba20aa7af3f.mp4
+春晚2021,http://txmov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzE4NTJfNDAzMDAxOTlfNjYxNzUzOTg3NjlfMF8z_b_Be41d9503181d7b0608a839ed401e02c2.mp4#https://alimov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzE4NTJfNDAzMDAxOTlfNjYxNzUzOTg3NjlfMF8z_b_Be41d9503181d7b0608a839ed401e02c2.mp4
+春晚2022,http://txmov2.a.kwimgs.com/upic/2022/02/01/11/BMjAyMjAyMDExMTEwMjNfNDAzMDAxOTlfNjYzNzA4MTk4NzNfMF8z_b_B898cc7ddd0025bf54ddb18ec1f723c84.mp4#https://alimov2.a.kwimgs.com/upic/2022/02/01/11/BMjAyMjAyMDExMTEwMjNfNDAzMDAxOTlfNjYzNzA4MTk4NzNfMF8z_b_B898cc7ddd0025bf54ddb18ec1f723c84.mp4
+春晚2023,https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
+春晚1984,https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5NTRfNDAzMDAxOTlfNjYyNzMyMzg3MTRfMF8z_b_B192356dadbc90d207ba16964d4c2914c.mp4
