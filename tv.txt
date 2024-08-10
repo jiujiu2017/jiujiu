@@ -14,7 +14,8 @@ CCTV12社会与法,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731
 CCTV13新闻,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8#http://114.254.80.92:88/tsfile/live/0013_1.m3u8
 CCTV14少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
 CCTV-15音乐,http://114.254.93.41:88/tsfile/live/0015_1.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8
-CCTV4k超高清,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
+CCTV-16,http://123.189.36.103:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0#http://123.189.36.155:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
+
 新闻综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226434/index.m3u8
 晴彩竞技,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
 晴彩篮球,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
